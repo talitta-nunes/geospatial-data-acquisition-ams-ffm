@@ -1,5 +1,4 @@
-# geospatial-data-acquisition-ams-ffm
-# geospatial-data-acquisition-ams-ffm
+
 # Amsterdam Geospatial Data Acquisition
 
 This repository contains my submission for the Data Acquisition exercise for Geospatial Data Consulting.
